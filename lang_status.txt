@@ -1,1 +1,5 @@
-"English - B2 \n French - A1 \n Ukrainian - Native" 
+English - B2
+French - A1
+Ukrainian - Native
+
+---END---
